@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: Montserrat;
+    background-color: #3C3744;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.links {
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    background-color: #B4C5E4;
+    height: 200px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 3px;  
+}
+
+.link_panqueca, .link_brownie, .link_lasanha {
+    background-color: #B4C5E4;
+}
+
